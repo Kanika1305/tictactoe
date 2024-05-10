@@ -30,8 +30,6 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 4 | 5 | 6
 7 | 8 | 9
 
-css
-Copy code
 
 - Each player's mark is represented as 'X' or 'O'.
 - The game will display the current state of the grid after each move.
