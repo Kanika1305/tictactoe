@@ -1,3 +1,4 @@
+![tic](https://github.com/Kanika1305/tictactoe/blob/main/tictac.png)
 # Tic Tac Toe Game
 
 This is a simple command-line based Tic Tac Toe game implemented in C++.
