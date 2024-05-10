@@ -39,7 +39,10 @@ Copy code
 
 ## Author
 
-[Your Name]
+Kanika Chauhan
+
+## E-Mail
+kanika13c@gmail.com
 
 
 
