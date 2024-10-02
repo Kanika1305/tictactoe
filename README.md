@@ -35,9 +35,7 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 - The game will display the current state of the grid after each move.
 - The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins.
 - If all positions are filled and no player has won, the game ends in a draw.
-  ## Download
-
-  <a href="https://raw.githubusercontent.com/Kanika1305/tictactoe/main/tictactoe.cpp" download="tictactoe.cpp">click here</a>
+ 
 
 ## Author
 
