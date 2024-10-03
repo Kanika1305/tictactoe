@@ -37,9 +37,11 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 - If all positions are filled and no player has won, the game ends in a draw.
 
  ## How to download
-
- <a href="https://github.com/Kanika1305/tictactoe/releases/download/try/tictac.exe"> CLICK here to download TICTACTOE</a>
-
+- Click on the given link.
+ <a href="https://github.com/Kanika1305/tictactoe/releases/download/tv1/a.exe"> CLICK here to download TICTACTOE</a>
+- The .exe file would be downloaded in your computer system.
+- Simply run the .exe file
+ 
 ## Developer
 
 Kanika Chauhan
